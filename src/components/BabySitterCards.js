@@ -37,9 +37,7 @@ function BabySitterCards() {
               className="card"
             >
               <h3>{nanny.name}</h3>
-            </div>
-            <div>
-              <TinderCard></TinderCard>
+              <h4>{nanny.description}</h4>
             </div>
           </TinderCard>
         ))}

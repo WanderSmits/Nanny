@@ -27,8 +27,12 @@
 }
 
 .card h3 {
-  position: absolute;
-  bottom: 0;
+  margin: 10px;
+  color: #fff;
+}
+
+.card h4 {
+  position: relative;
   margin: 10px;
   color: #fff;
 }
